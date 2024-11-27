@@ -3,7 +3,7 @@ Team 8
 Team Members:
 Hema Srita
 Harshdeep
-Ishaan CP
+Ishaan
 Adit
 1. Setup Instructions
 1.1 Prerequisites
