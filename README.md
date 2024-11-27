@@ -44,6 +44,7 @@ Ensure the following are set up before running the project:
      - A Textual Description (Prompt) summarizing the content of the video.
      - A Generated Video based on the detected features in the original video.
 3. System Architecture
+   
 3.1 Components
 1. Input Video Handling:
    - Frames are extracted using OpenCV.
